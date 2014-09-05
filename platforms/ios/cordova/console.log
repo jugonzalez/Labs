@@ -1,0 +1,131 @@
+2014-08-29 03:53:25.579 App[9792:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-29 03:53:25.601 App[9792:70b] Unlimited access to network resources
+2014-08-29 03:53:25.605 App[9792:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-29 03:53:25.726 App[9792:70b] [CDVTimer][file] 1.839995ms
+2014-08-29 03:53:25.727 App[9792:70b] [CDVTimer][TotalPluginStartup] 2.328992ms
+2014-08-29 03:53:25.892 App[9792:70b] Resetting plugins due to page load.
+2014-08-29 03:53:25.946 App[9792:70b] Finished load of: file:///Users/juancarlos/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/39747A65-4EA7-4071-8046-A61B686C04CE/App.app/www/index.html
+2014-08-29 03:57:57.832 App[10032:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-29 03:57:57.838 App[10032:70b] Unlimited access to network resources
+2014-08-29 03:57:57.840 App[10032:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-29 03:57:57.853 App[10032:70b] [CDVTimer][file] 1.212001ms
+2014-08-29 03:57:57.854 App[10032:70b] [CDVTimer][TotalPluginStartup] 1.617014ms
+2014-08-29 03:57:57.884 App[10032:70b] Resetting plugins due to page load.
+2014-08-29 03:57:57.919 App[10032:70b] Finished load of: file:///Users/juancarlos/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/39747A65-4EA7-4071-8046-A61B686C04CE/App.app/www/index.html
+2014-09-01 23:30:36.277 App[44361:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-01 23:30:36.312 App[44361:70b] Unlimited access to network resources
+2014-09-01 23:30:36.316 App[44361:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-01 23:30:36.625 App[44361:70b] [CDVTimer][file] 2.623022ms
+2014-09-01 23:30:36.625 App[44361:70b] [CDVTimer][TotalPluginStartup] 3.085017ms
+2014-09-01 23:30:36.745 App[44361:70b] Resetting plugins due to page load.
+2014-09-01 23:30:37.423 App[44361:70b] Finished load of: file:///Users/juancarlos/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/39747A65-4EA7-4071-8046-A61B686C04CE/App.app/www/index.html
+2014-09-01 23:30:58.480 App[44361:70b] Resetting plugins due to page load.
+2014-09-01 23:30:58.516 App[44361:70b] Finished load of: file:///Users/juancarlos/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/39747A65-4EA7-4071-8046-A61B686C04CE/App.app/www/detallado.html?variable=vTjHgvn9n9
+2014-09-01 23:31:26.254 App[44361:70b] Resetting plugins due to page load.
+2014-09-01 23:31:26.282 App[44361:70b] Finished load of: file:///Users/juancarlos/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/39747A65-4EA7-4071-8046-A61B686C04CE/App.app/www/detallado.html?boton1.x=14&boton1.y=386
+2014-09-01 23:32:12.440 App[44532:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-01 23:32:12.446 App[44532:70b] Unlimited access to network resources
+2014-09-01 23:32:12.449 App[44532:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-01 23:32:12.467 App[44532:70b] [CDVTimer][file] 1.563013ms
+2014-09-01 23:32:12.468 App[44532:70b] [CDVTimer][TotalPluginStartup] 2.075016ms
+2014-09-01 23:32:12.555 App[44532:70b] Resetting plugins due to page load.
+2014-09-01 23:32:13.140 App[44532:70b] Finished load of: file:///Users/juancarlos/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/39747A65-4EA7-4071-8046-A61B686C04CE/App.app/www/index.html
+2014-09-01 23:37:34.544 App[44789:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-01 23:37:34.550 App[44789:70b] Unlimited access to network resources
+2014-09-01 23:37:34.552 App[44789:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-01 23:37:34.565 App[44789:70b] [CDVTimer][file] 1.001000ms
+2014-09-01 23:37:34.565 App[44789:70b] [CDVTimer][TotalPluginStartup] 1.396954ms
+2014-09-01 23:37:34.596 App[44789:70b] Resetting plugins due to page load.
+2014-09-01 23:37:35.277 App[44789:70b] Finished load of: file:///Users/juancarlos/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/39747A65-4EA7-4071-8046-A61B686C04CE/App.app/www/index.html
+2014-09-02 01:32:01.181 App[45986:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-02 01:32:01.189 App[45986:70b] Unlimited access to network resources
+2014-09-02 01:32:01.191 App[45986:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-02 01:32:01.237 App[45986:70b] [CDVTimer][file] 1.430035ms
+2014-09-02 01:32:01.237 App[45986:70b] [CDVTimer][TotalPluginStartup] 1.967013ms
+2014-09-02 01:32:01.319 App[45986:70b] Resetting plugins due to page load.
+2014-09-02 01:32:01.975 App[45986:70b] Finished load of: file:///Users/juancarlos/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/39747A65-4EA7-4071-8046-A61B686C04CE/App.app/www/index.html
+2014-09-02 01:32:16.015 App[45986:70b] Resetting plugins due to page load.
+2014-09-02 01:32:16.225 App[45986:70b] Finished load of: file:///Users/juancarlos/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/39747A65-4EA7-4071-8046-A61B686C04CE/App.app/www/index.html
+2014-09-02 01:32:30.512 App[45986:70b] Resetting plugins due to page load.
+2014-09-02 01:32:30.833 App[45986:70b] Finished load of: file:///Users/juancarlos/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/39747A65-4EA7-4071-8046-A61B686C04CE/App.app/www/guardar.html
+2014-09-02 01:49:47.657 App[46288:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-02 01:49:47.663 App[46288:70b] Unlimited access to network resources
+2014-09-02 01:49:47.666 App[46288:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-02 01:49:47.680 App[46288:70b] [CDVTimer][file] 1.442015ms
+2014-09-02 01:49:47.681 App[46288:70b] [CDVTimer][TotalPluginStartup] 1.967967ms
+2014-09-02 01:49:47.713 App[46288:70b] Resetting plugins due to page load.
+2014-09-02 01:49:48.347 App[46288:70b] Finished load of: file:///Users/juancarlos/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/39747A65-4EA7-4071-8046-A61B686C04CE/App.app/www/index.html
+2014-09-02 01:50:29.739 App[46288:70b] Resetting plugins due to page load.
+2014-09-02 01:50:29.772 App[46288:70b] Finished load of: file:///Users/juancarlos/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/39747A65-4EA7-4071-8046-A61B686C04CE/App.app/www/detallado.html?variable=jdY1dGQh57
+2014-09-02 01:50:54.849 App[46288:70b] Resetting plugins due to page load.
+2014-09-02 01:50:54.877 App[46288:70b] Finished load of: file:///Users/juancarlos/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/39747A65-4EA7-4071-8046-A61B686C04CE/App.app/www/guardar.html
+2014-09-02 01:54:02.984 App[46288:70b] Resetting plugins due to page load.
+2014-09-02 01:54:03.011 App[46288:70b] Finished load of: file:///Users/juancarlos/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/39747A65-4EA7-4071-8046-A61B686C04CE/App.app/www/index.html
+2014-09-02 01:55:09.647 App[46288:70b] Resetting plugins due to page load.
+2014-09-02 01:55:09.677 App[46288:70b] Finished load of: file:///Users/juancarlos/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/39747A65-4EA7-4071-8046-A61B686C04CE/App.app/www/detallado.html?variable=GMgmTD8G0t
+2014-09-02 01:55:19.940 App[46288:70b] Resetting plugins due to page load.
+2014-09-02 01:55:19.973 App[46288:70b] Finished load of: file:///Users/juancarlos/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/39747A65-4EA7-4071-8046-A61B686C04CE/App.app/www/index.html
+2014-09-02 02:11:53.814 App[46288:70b] Resetting plugins due to page load.
+2014-09-02 02:11:53.850 App[46288:70b] Finished load of: file:///Users/juancarlos/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/39747A65-4EA7-4071-8046-A61B686C04CE/App.app/www/detallado.html?variable=MYu2TxQNoS
+2014-09-02 02:12:02.871 App[46288:70b] Resetting plugins due to page load.
+2014-09-02 02:12:02.895 App[46288:70b] Finished load of: file:///Users/juancarlos/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/39747A65-4EA7-4071-8046-A61B686C04CE/App.app/www/index.html
+2014-09-02 21:28:21.528 App[47851:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-02 21:28:21.571 App[47851:70b] Unlimited access to network resources
+2014-09-02 21:28:21.580 App[47851:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-02 21:28:21.750 App[47851:70b] [CDVTimer][file] 1.500964ms
+2014-09-02 21:28:21.751 App[47851:70b] [CDVTimer][TotalPluginStartup] 1.906991ms
+2014-09-02 21:28:21.985 App[47851:70b] Resetting plugins due to page load.
+2014-09-02 21:28:22.790 App[47851:70b] Finished load of: file:///Users/juancarlos/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/39747A65-4EA7-4071-8046-A61B686C04CE/App.app/www/index.html
+2014-09-02 21:30:19.829 App[47851:70b] Resetting plugins due to page load.
+2014-09-02 21:30:20.176 App[47851:70b] Finished load of: file:///Users/juancarlos/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/39747A65-4EA7-4071-8046-A61B686C04CE/App.app/www/guardar.html
+2014-09-02 21:37:06.993 App[47851:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-09-02 21:37:11.059 App[47851:70b] Resetting plugins due to page load.
+2014-09-02 21:37:11.405 App[47851:70b] Finished load of: file:///Users/juancarlos/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/39747A65-4EA7-4071-8046-A61B686C04CE/App.app/www/index.html

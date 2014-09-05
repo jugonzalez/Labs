@@ -1,0 +1,61 @@
+$(document).ready(function()
+{
+  Parse.initialize("7KH8tVToGK0SQXPTeolmBuNg4qRq64wZM4Pz90e4", "XBkYGi16J0jQfejKrewI7QBqchv8LpgLW4AexTjr");
+  var catalogo = Parse.Object.extend("catalogo");
+  var query = new Parse.Query(catalogo);
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+  query.find(
+  {
+    success: function(results) 
+    {
+      var element =  "<h1> Los Simpsons </h1>";
+      for(var i = 0; i < results.length; i++) 
+      {
+                element = element + "<img src= " + this.pizza.get('Imagen').url() +">";
+                element = element + "<h2>" + this.pizza.get('Titulo')+"</h2>";
+                element = element + "<p>" + this.pizza.get('Descripcion')+"</p>";
+        this.pizza = results[i];
+        var relation = pizza.relation('Etiquetas');
+
+        //relation.query().equalTo("Nombre","tercero");
+        relation.query().find( 
+        {
+          success: function(toppings) 
+          {
+            // toppings is a list of toppings for this pizza
+            for(var j = 0; j < toppings.length; j++) 
+            {
+              if( toppings[j].get("Nombre")=="tercero")
+              {
+                //alert(toppings[j].get("Nombre")+"Hola");
+                //element = element + "<img src= " + this.pizza.get('Imagen').url() +">";
+                //element = element + "<h2>" + this.pizza.get('Titulo')+"</h2>";
+                //element = element + "<p>" + this.pizza.get('Descripcion')+"</p>";
+              }
+            }
+            $("#minifigures").html(element);
+          }
+        });
+      }
+      
+    },
+    error: function(error) {
+      alert("Error: " + error.code + " " + error.message);
+    }
+  });
+  
+});
+
+
